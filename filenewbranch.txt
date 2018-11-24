@@ -1,3 +1,5 @@
 My 1st file in new branch
 ad new line to next
 ad new line to next by master br
+ad new line to next by master br 2
+ad new line to next by first br 2
